@@ -4,9 +4,9 @@ Here is some code to put in your VBA project to add your own commands to the Exc
 
 These new commands appear in the Ribbon as “Add-ins” in a section called “Custom Toolbars.”
 
-![image-20200628094718137](C:\Users\DickDye\Documents\Excel\Writeups 2020-06-26\Add-ins Ribbon Overview.png)                               
+![image-20200628094718137](https://github.com/BriargateExcel/AddingVBARibbonElements/blob/master/Add-ins%20Ribbon%20Overview.png)                               
 
- ![image-20200628094838659](C:\Users\DickDye\Documents\Excel\Writeups 2020-06-26\Add-ins Custom Toolbar.png)
+ ![image-20200628094838659](https://github.com/BriargateExcel/AddingVBARibbonElements/blob/master/Add-ins%20Custom%20Toolbar.png)
 
 **Instructions for using:**
 
